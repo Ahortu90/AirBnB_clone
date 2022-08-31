@@ -1,9 +1,9 @@
 <p align="center"
-  <img src="https://github.com/Ahortu90/AirBnB_clone/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+  <img src="assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
 
 <h1 align="center">ALXBnB</h1>
-<p align="center">An AirBnB clone.</p>
+<p align="center" background-color="yellow">An AirBnB clone.</p>
 
 ----
 
