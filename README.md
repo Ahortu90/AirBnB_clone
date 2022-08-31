@@ -151,7 +151,7 @@ This gives us the list of all BaseModel created
 This gives us the list of all User
 (hbnb)
 (hbnb) all
-"<strong>This Command List all User, BaseModel</strong>"
+This Command List all User, BaseModel
 (hbnb)
 ```
 
