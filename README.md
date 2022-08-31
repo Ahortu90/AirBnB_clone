@@ -3,7 +3,7 @@
 </p>
 
 <h1 background-color="yellow" align="center"><strong>ALXBnB</strong></h1>
-<style background-color="yellow"><p align="center"><b>An AirBnB clone.</b></p></style>
+<p align="center" style="background-color:yellow"><b>An AirBnB clone.</b></p>
 
 ----
 
