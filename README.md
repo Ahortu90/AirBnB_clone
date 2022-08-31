@@ -2,8 +2,8 @@
   <img src="assets/logo.png" alt="logo">
 </p>
 
-<h1 align="center">ALXBnB</h1>
-<p align="center" color="yellow">An AirBnB clone.</p>
+<h1 align="center"><strong>ALXBnB</strong></h1>
+<p align="center">An AirBnB clone.</p>
 
 ----
 
