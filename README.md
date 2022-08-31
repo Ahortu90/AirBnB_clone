@@ -1,6 +1,5 @@
-<p align="center"
-  [!image]("assets/hbnb_logo.png")
-</p>
+[!image]("assets/hbnb_logo.png")
+
 
 <h1 align="center">ALXBnB</h1>
 <p align="center" color="yellow">An AirBnB clone.</p>
