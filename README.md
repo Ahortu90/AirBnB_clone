@@ -1,5 +1,5 @@
 <p align="center"
-  <img src="https://github.com/Ahortu90/AirBnB_clone/marybenie/main/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+  <img src="https://github.com/Ahortu90/AirBnB_clone/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
 
 <h1 align="center">ALXBnB</h1>
@@ -16,7 +16,7 @@ The project currently only implements the back-end console.
 
 ## Classes :cl:
 
-HolbertonBnB utilizes the following classes:
+ALXBnB utilizes the following classes:
 
 |     | BaseModel | FileStorage | User | State | City | Amenity | Place | Review |
 | --- | --------- | ----------- | -----| ----- | -----| ------- | ----- | ------ |
