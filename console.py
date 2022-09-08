@@ -32,12 +32,7 @@ def parse(arg):
 
 
 class HBNBCommand(cmd.Cmd):
-    print("|=======================================================|")
-    print("|   Developed By Ahortu Derrick And Ogoh Mary Obiageli  |")
-    print("|                                                       |")
-    print("|              Welcome To Our Consle                    |")
-    print("|=======================================================|")
-    """Defines the ALXBnB command interpreter.
+    """Defines the HolbertonBnB command interpreter.
 
     Attributes:
         prompt (str): The command prompt.
